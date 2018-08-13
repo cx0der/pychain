@@ -50,6 +50,9 @@ Nodes in a peer network communicate with each other via the websocket, so we hav
   -d DIFFICULTY, --difficulty DIFFICULTY
                         Number of zeros in the hash, default is 4
 ```
+### Learn more about Blockchains
+
+Learn more about Pychain and Blockchains in general head over to [this](https://devrandom.blog/2018/08/13/pychain-blockchain-in-200-lines-of-python/) blog post on [devrandom.blog](https://devrandom.blog).
 
 ## LICENSE
 
